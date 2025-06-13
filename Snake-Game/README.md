@@ -29,16 +29,16 @@ This project uses **MediaPipe** and **OpenCV** to track your hand via webcam and
 
 ---
 
-## ✋ Controls
-Palm inside circle → Snake moves in the direction of palm tilt
+## ✋ Controls & Visuals
 
-Palm out of circle → Game pauses
+| Action         | Gesture / Input                       |
+|----------------|----------------------------------------|
+| Move Snake     | 🖐️ Tilt your palm inside control zone  |
+| Pause          | ❌ Move hand out of control circle      |
+| Resume         | ✋ Show open palm (3+ fingers)          |
+| Restart Game   | 🔁 Press `R`                           |
+| Exit Game      | ❌ Press `ESC`                         |
 
-Open hand (≥ 3 fingers) → Resume game
-
-Press R → Restart game
-
-Press ESC → Exit game
 
 ## 📷 Visual Guide
 A circle on the screen represents the control zone.
