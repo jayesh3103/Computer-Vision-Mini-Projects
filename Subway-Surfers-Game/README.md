@@ -1,4 +1,4 @@
-# 🕹️ CV_Subway – Hand Gesture Controller for Subway Surfers
+# 🏃‍♂️ Hand-Controlled Subway Surfers
 
 Control **Subway Surfers** (or any PC game) using just your **hand gestures** via your webcam!
 
@@ -29,3 +29,16 @@ This project uses **MediaPipe** for real-time hand tracking, an on-screen **joys
 | 🪟 ctypes     | Always-on-top window (Windows)    |
 
 ---
+
+## 🕹️ Controls
+
+| Action       | Gesture Description                     |
+|--------------|------------------------------------------|
+| Move Left    | 🖐️ Palm swipes left or tilts left         |
+| Move Right   | 🖐️ Palm swipes right or tilts right       |
+| Jump         | ✋ Hand raised upward                    |
+| Duck         | ✋ Hand moved downward                   |
+| Pause        | ❌ Remove hand from frame                |
+| Resume       | ✋ Show open palm with 3+ fingers        |
+| Restart      | 🔁 Press `R`                             |
+| Exit         | ❌ Press `ESC`                           |
