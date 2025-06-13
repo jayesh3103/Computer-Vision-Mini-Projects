@@ -34,5 +34,5 @@ This project detects your hand, tracks finger gestures (like extended fingers), 
 | **MediaPipe** | Hand tracking and landmark detection |
 | **NumPy**   | Math & angle computations |
 
----
+
 
