@@ -33,8 +33,8 @@ A classic Snake game built with Pygame.
 - Dynamic food generation
 - Game over logic
 
-### 🛹 4. Subway Surfer Game 
-**File:** `Subway-Surfer-Game/subway-surfers.py`  
+### 🛹 4. Subway Surfers Game 
+**File:** `Subway-Surfers-Game/subway-surfers.py`  
 A basic prototype inspired by Subway Surfers.
 
 **Features:**
