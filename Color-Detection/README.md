@@ -35,8 +35,4 @@ This project detects your hand, tracks finger gestures (like extended fingers), 
 | **NumPy**   | Math & angle computations |
 
 ---
-### 🔧 Installation
 
-```bash
-git clone https://github.com/Color-Detection/color-detection.py
-cd GestureDraw
