@@ -39,6 +39,7 @@ This project uses **MediaPipe** and **OpenCV** to track your hand via webcam and
 | Restart Game   | 🔁 Press `R`                           |
 | Exit Game      | ❌ Press `ESC`                         |
 
+---
 
 ## 📷 Visual Guide
 A circle on the screen represents the control zone.
@@ -46,6 +47,8 @@ A circle on the screen represents the control zone.
 Arrows inside the circle show movement directions.
 
 Hand landmarks are drawn to visualize tracking.
+
+---
 
 ## 🏆 Objective
 Reach a score of 100 by eating food items:
@@ -55,6 +58,8 @@ Reach a score of 100 by eating food items:
 🟠 Medium (5 points)
 
 🔴 Large (10 points)
+
+---
 
 ## ⚠️ Notes
 Ensure good lighting for accurate hand detection.
