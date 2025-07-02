@@ -44,7 +44,7 @@ A basic prototype inspired by Subway Surfers.
 
 ### 🧠 5. Concentration Tracker
 
-**File:** Concentration-Tracker/concentration_app.py
+**File:** Concentration-Tracker/concen_tracker.py
 Estimates user concentration in real-time using facial landmarks with MediaPipe Face Mesh and OpenCV.
 
 **Features:**
