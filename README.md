@@ -8,6 +8,7 @@ This repository showcases a collection of mini-projects using Python, OpenCV, Me
 
 ### 🟡 1. Color Detection
 **File:** `Color-Detection/color-detection.py`  
+
 Detects and highlights specific colors from the webcam feed using OpenCV.
 
 **Features:**
@@ -17,6 +18,7 @@ Detects and highlights specific colors from the webcam feed using OpenCV.
 
 ### ✋ 2. Hand Detection
 **File:** `Hand-Detection/hand-detection.py`  
+
 Uses MediaPipe for real-time hand tracking with OpenCV.
 
 **Features:**
@@ -26,6 +28,7 @@ Uses MediaPipe for real-time hand tracking with OpenCV.
 
 ### 🐍 3. Snake Game
 **File:** `Snake-Game/snake-game.py`  
+
 A classic Snake game built with Pygame.
 
 **Features:**
@@ -35,6 +38,7 @@ A classic Snake game built with Pygame.
 
 ### 🛹 4. Subway Surfers Game 
 **File:** `Subway-Surfers-Game/subway-surfers.py`  
+
 A basic prototype inspired by Subway Surfers.
 
 **Features:**
@@ -44,7 +48,8 @@ A basic prototype inspired by Subway Surfers.
 
 ### 🧠 5. Concentration Tracker
 
-**File:** Concentration-Tracker/concen_tracker.py
+**File:** `Concentration-Tracker/concen_tracker.py`
+
 Estimates user concentration in real-time using facial landmarks with MediaPipe Face Mesh and OpenCV.
 
 **Features:**
