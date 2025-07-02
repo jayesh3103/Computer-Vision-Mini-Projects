@@ -42,6 +42,18 @@ A basic prototype inspired by Subway Surfers.
 - Obstacle dodging mechanics
 - Endless runner logic
 
+### 🧠 5. Concentration Tracker
+
+**File:** Concentration-Tracker/concentration_app.py
+Estimates user concentration in real-time using facial landmarks with MediaPipe Face Mesh and OpenCV.
+
+**Features:**
+	•	Eye blink detection using Eye Aspect Ratio (EAR)
+	•	Gaze and head pose estimation
+	•	Smooth concentration scoring (0–100%)
+	•	Distraction tracking with alerts
+	•	Clean visual overlays and FPS display
+
 ---
 
 ## 🛠️ Installation & Running
